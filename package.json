@@ -1,0 +1,19 @@
+{
+  "name": "elimen",
+  "version": "1.0.0",
+  "description": "webz",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/otirmesilati/EliMen.git"
+  },
+  "author": "otyr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/otirmesilati/EliMen/issues"
+  },
+  "homepage": "https://github.com/otirmesilati/EliMen#readme"
+}
